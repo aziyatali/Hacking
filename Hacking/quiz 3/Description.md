@@ -1,0 +1,3 @@
+4 - Multi-layer security (reverse-engineering problem)
+10
+Find the flag by reverse-engineering the given executable! This one is less direct...
